@@ -1,0 +1,11 @@
+  .login-page {
+    text-align: center;
+    /* background-color: whitesmoke; */
+    margin: 0 auto;
+    width: 35%;
+  }
+  
+  form {
+    text-align: -webkit-center;
+  }
+  
